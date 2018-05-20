@@ -62,7 +62,7 @@ section {
 }
 
 #section1 {
-    background-color: rgba(242, 242, 242, 0.3);
+    background-color: rgba(242, 242, 240, 0.1);
     height:auto;
     padding-bottom: 10%;
    
@@ -70,7 +70,7 @@ section {
 }
 
 #section2 {
-    background-color: rgba(142, 212, 242, 0.3);
+    background-color: rgba(142, 212, 232, 0.1);
     height:auto;
 
 }
